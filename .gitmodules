@@ -1,0 +1,3 @@
+[submodule "client-app/uploader-app"]
+	path = client-app/uploader-app
+	url = C:\\Users\\alonaf\\assignment2\\client-app\\uploader-app
